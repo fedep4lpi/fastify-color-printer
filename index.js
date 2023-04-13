@@ -1,6 +1,6 @@
+const colors = require('colors')
+
 module.exports = function (fastify, opts, done) {
-    fastify.decorate('utility', function () {})
-  
+    fastify.decorate('printer', colors)
     done()
-  }
-  
+}

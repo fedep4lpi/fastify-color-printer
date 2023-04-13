@@ -1,2 +1,2 @@
 # fastify-color-printer
- fastify-color-printer
+ A fastify plugin to color your console

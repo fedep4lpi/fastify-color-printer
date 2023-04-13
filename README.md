@@ -1,2 +1,2 @@
 # fastify-color-printer
- A fastify plugin to color node console
+ A fastify plugin to colorate your console

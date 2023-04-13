@@ -1,6 +1,6 @@
 {
   "name": "fastify-color-printer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fastify plugin to color your console",
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/fedep4lpi/fastify-color-printer#readme",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "fastify-plugin": "^4.5.0"
   }
 }

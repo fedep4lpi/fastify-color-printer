@@ -1,6 +1,6 @@
 {
   "name": "fastify-color-printer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A fastify plugin to color your console",
   "main": "index.js",
   "scripts": {

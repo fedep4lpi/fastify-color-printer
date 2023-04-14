@@ -28,6 +28,7 @@
   "homepage": "https://github.com/fedep4lpi/fastify-color-printer#readme",
   "dependencies": {
     "colors": "^1.4.0",
+    "fastify": "^4.15.0",
     "fastify-plugin": "^4.5.0"
   }
 }

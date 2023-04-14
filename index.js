@@ -1,7 +1,10 @@
 const fp = require('fastify-plugin')
 const colors = require('colors')
 
-module.exports = fp(function (fastify, opts, done) {
+const printer = (fastify, opts, done) => {
     fastify.decorate('printer', colors)
     done()
-})
+}
+
+/** @module  */
+module.exports = fp(printer)
